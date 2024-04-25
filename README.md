@@ -18,10 +18,10 @@ I'm always excited about collaborating on projects related to my interests. Whet
 <!--
 ## Contact Me
 Feel free to reach out to me via email at bitblazex@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/bitblazex).
--->
 
 ## Fun Fact
 I once implemented a custom Kubernetes operator using TypeScript just for fun!
+-->
 
 ## Pronouns
 He/Him
